@@ -5,7 +5,7 @@ The goal is to extract insights into product performance, customer engagement, a
 
 
 ## Dataset Used
-<a href="https://github.com/VrajPachchigar/Amazon-Sales-Dashboard/blob/main/Amazon_Combined_Data.xlsx"></a>
+<a href="https://github.com/VrajPachchigar/Amazon-Sales-Dashboard/blob/main/Amazon_Combined_Data.xlsx">Amazon_Sales_Data</a>
 
 
 ## 🔧 Tools & Technologies
