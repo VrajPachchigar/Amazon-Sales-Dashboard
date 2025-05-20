@@ -1,9 +1,11 @@
-## Amazon-Sales-Dashboard
-
 ## 📦 Amazon Sales Data Analysis – Excel & Power BI
 
 This project analyzes **Amazon Sales Data** using **Excel** for data preprocessing and **Power BI** for dynamic visualizations and dashboard creation. 
 The goal is to extract insights into product performance, customer engagement, and sales trends over time to support data-driven decision-making.
+
+
+## Dataset Used
+<a href="https://github.com/VrajPachchigar/Amazon-Sales-Dashboard/blob/main/Amazon_Combined_Data.xlsx"></a>
 
 
 ## 🔧 Tools & Technologies
